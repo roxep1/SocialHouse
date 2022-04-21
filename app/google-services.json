@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609438158180",
+    "project_id": "socialhouse-c9503",
+    "storage_bucket": "socialhouse-c9503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609438158180:android:857fa550fe5da5885fbe71",
+        "android_client_info": {
+          "package_name": "com.bashkir.socialhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609438158180-6s9c15pmodiati7eot3h5q7ta9hck8uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVuBhj_Y-pmLTGxNUybY8MXMm6CHu-Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609438158180-6s9c15pmodiati7eot3h5q7ta9hck8uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

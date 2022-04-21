@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocialHouse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Поиск</string>
+    <string name="username_hint">username</string>
+    <string name="emailHint">mpt@mpt.ru</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="message_hint">Сообщение</string>
+    <string name="exitBtn">Выйти из аккаунта</string>
+</resources>
